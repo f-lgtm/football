@@ -1,5 +1,6 @@
-#Fix masterbrach
-#Fix einfügen
+
+# Fix und Feature Dockerfile
+
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
